@@ -1,0 +1,7 @@
+Meu primeiro projeto em ADS
+
+Aluno: Marcelo Gonçalves
+Curso: Análise e Desenvolvimento de Sistemas
+
+Objetivo:
+Praticar o uso do Git e do GitHub para controlar versões de um projeto.
